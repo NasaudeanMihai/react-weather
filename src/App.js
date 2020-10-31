@@ -2,7 +2,7 @@ import { waitForDomChange } from '@testing-library/react';
 import React, { useState } from 'react';
 
 const api = {
-  key: "6f4e19d6cc3cccbf5d7418aba4a70cce",
+  key: "website key code",
   base: "http://api.openweathermap.org/data/2.5/"
 }
 function App() {
